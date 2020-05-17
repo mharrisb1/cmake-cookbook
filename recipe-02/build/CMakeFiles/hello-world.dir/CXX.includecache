@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/message.hpp
+iosfwd
+-
+string
+-
+
+/home/pi/LearnX/cmake-cookbook/recipe-02/src/main.cpp
+message.hpp
+/home/pi/LearnX/cmake-cookbook/recipe-02/src/message.hpp
+cstdlib
+-
+iostream
+-
+

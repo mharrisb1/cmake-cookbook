@@ -1,0 +1,3 @@
+/home/pi/LearnX/cmake-cookbook/single-source-file-example/build/CMakeFiles/rebuild_cache.dir
+/home/pi/LearnX/cmake-cookbook/single-source-file-example/build/CMakeFiles/hello-word.dir
+/home/pi/LearnX/cmake-cookbook/single-source-file-example/build/CMakeFiles/edit_cache.dir

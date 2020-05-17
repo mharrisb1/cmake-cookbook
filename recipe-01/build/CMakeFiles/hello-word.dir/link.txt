@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/hello-word.dir/main.cpp.o  -o hello-word 

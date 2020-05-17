@@ -1,0 +1,4 @@
+/home/pi/LearnX/cmake-cookbook/recipe-02/build/CMakeFiles/rebuild_cache.dir
+/home/pi/LearnX/cmake-cookbook/recipe-02/build/CMakeFiles/edit_cache.dir
+/home/pi/LearnX/cmake-cookbook/recipe-02/build/CMakeFiles/message.dir
+/home/pi/LearnX/cmake-cookbook/recipe-02/build/CMakeFiles/hello-world.dir
